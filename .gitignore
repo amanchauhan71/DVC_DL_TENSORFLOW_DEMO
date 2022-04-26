@@ -131,8 +131,8 @@ data/*
 research
 .idea/
 .vscode/
-.env_create.PNG/
-.step_02_git_init_dvc_init.PNG/
+./env_create.PNG
+./step_02_git_init_dvc_init.PNG
 
 ./env
 # ignore the secrets file
